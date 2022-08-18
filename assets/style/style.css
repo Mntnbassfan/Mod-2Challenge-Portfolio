@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+
+/* styling for nav section */
+nav {
+  display: flex;
+  background-color: gold;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  justify-content: space-between;
+  align-items: center;
+  border: 5px solid black;
+  height: 200px;
+  padding: 20px;
+}
+
+.navList {
+  /* display: flex; */
+  flex-direction: column;
+  color: blue;
+}
+
+.about-me {
+  display: flex;
+  padding: 50px;
+  flex-direction: column;
+  align-items: center;
+  border: 5px solid black;
+  background-color: aqua;
+  border: 5px solid black;
+  height: 350px;
+  padding: 20px;
+  color: blue;
+  margin: auto;
+}
+
+.completed-projects {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  color: blue;
+  height: 400px;
+  padding: 20px;
+  border: 5px solid black;
+  background-color: aqua;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+}
+
+.contact-info {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  background-color: gold;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid black;
+  height: 300px;
+  padding: 20px;
+}
+.projects {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.description {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.site-description {
+  font-size: 20px;
+}
+.app-1-img {
+  height: 260px;
+  width: 260px;
+}
