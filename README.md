@@ -19,3 +19,4 @@ Project URL
 https://github.com/Mntnbassfan/code-challenge-portfolio
 
 Deployed Website URL
+https://mntnbassfan.github.io/code-challenge-portfolio/
