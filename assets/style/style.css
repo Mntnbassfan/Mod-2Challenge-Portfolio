@@ -55,6 +55,10 @@ img {
   padding: 20px;
 }
 
+.projects .img-1:focus {
+<img src="assets\images\placeholder-1.png"
+}
+
 .contact-info {
   display: flex;
   padding: 20px;
