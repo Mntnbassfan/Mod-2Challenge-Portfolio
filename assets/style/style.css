@@ -24,48 +24,43 @@ nav {
 }
 
 .about-me {
+  display: flex;
   flex-wrap: wrap;
-  padding: 50px;
   flex-direction: column;
+  padding: 50px;
   align-items: center;
+  width: 100%;
   border: 5px solid black;
   background-color: aqua;
   border: 5px solid black;
-  height: 350px;
+  height: auto;
   padding: 20px;
   color: blue;
-  margin: auto;
+  /* margin: auto; */
 }
 
 .completed-projects {
-  width: 100%;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   flex-wrap: wrap;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  width: 100%;
   color: blue;
   height: auto;
-  padding: 20px;
   border: 5px solid black;
   background-color: aqua;
+}
+
+.app-1-img {
+  height: 260px;
+  width: 100%;
 }
 
 img {
   width: 200px;
   height: 200px;
   padding: 20px;
-}
-.placeholder {
-  position: relative;
-}
-
-.placeholder:focus::after {
-  content: image-set("assets/images/placeholder-1.png");
-  /* width= "200" height= "200" >; */
-  display: block;
-  position: absolute;
-  left: 200px;
-  top: 2oopx;
 }
 
 .contact-info {
@@ -95,8 +90,4 @@ img {
 
 .site-description {
   font-size: 20px;
-}
-.app-1-img {
-  height: 260px;
-  width: 260px;
 }
