@@ -20,3 +20,6 @@ https://github.com/Mntnbassfan/code-challenge-portfolio
 
 Deployed Website URL
 https://mntnbassfan.github.io/code-challenge-portfolio/
+
+Application Screenchot GIF
+<img src="assets\images\Portfolio screenshot GIF.gif" alt="screenshot of deployed application">
