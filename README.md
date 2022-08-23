@@ -1,6 +1,6 @@
 # Portfolio Challenge
 
-created an informative portfolio page with active nav links, contact info and a section with completed projects.
+Created an informative portfolio page with active nav links, contact info and a section with completed projects.
 
 ## Design Notes
 
@@ -28,6 +28,6 @@ https://github.com/Mntnbassfan/code-challenge-portfolio
 
 https://mntnbassfan.github.io/code-challenge-portfolio/
 
-## Application Screenchot GIF
+## Application Screenshot GIF
 
 <img src="assets\images\Portfolio screenshot GIF.gif" alt="screenshot of deployed application">
