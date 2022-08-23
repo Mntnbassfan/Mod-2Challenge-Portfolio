@@ -22,7 +22,7 @@ nav {
   flex-direction: column;
   color: blue;
 }
-
+/* styling for about me section */
 .about-me {
   display: flex;
   flex-wrap: wrap;
@@ -36,9 +36,9 @@ nav {
   height: auto;
   padding: 20px;
   color: blue;
-  /* margin: auto; */
 }
 
+/* styling for completed projects section */
 .completed-projects {
   display: flex;
   flex-wrap: wrap;
@@ -63,6 +63,7 @@ img {
   padding: 20px;
 }
 
+/* styling for contact info section */
 .contact-info {
   display: flex;
   padding: 20px;
@@ -97,6 +98,8 @@ img {
 .site-description {
   font-size: 20px;
 }
+
+/* styling for link to top */
 .link-to-top {
   position: fixed;
   bottom: 20px;

@@ -1,4 +1,9 @@
-AS AN employer
+# Portfolio Challenge
+
+created an informative portfolio page with active nav links, contact info and a section with completed projects.
+
+## Design Notes
+
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 GIVEN I need to sample a potential employee's previous work
@@ -15,11 +20,14 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-Project URL
+## Project URL
+
 https://github.com/Mntnbassfan/code-challenge-portfolio
 
-Deployed Website URL
+## Deployed Website URL
+
 https://mntnbassfan.github.io/code-challenge-portfolio/
 
-Application Screenchot GIF
+## Application Screenchot GIF
+
 <img src="assets\images\Portfolio screenshot GIF.gif" alt="screenshot of deployed application">
